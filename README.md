@@ -6,4 +6,4 @@ This is just a little simple platformer with bad physics. But I think it's still
 **Test it out:** https://lennektro-official.github.io/PlatformerTest/
 
 ## References
-p5.js was used to create this project, you can find more abot it here: https://p5js.org
+p5.js was used to create this project, you can find more abot it here: https://p5js.org/
